@@ -1,335 +1,171 @@
 <a id="top"></a>
 
-# Questionnaire – Responses
+This appendix presents our full documentation of Group 4E's usability evaluation. It includes all of our questions from our questionaire. With their linked answers, organised effiecently, into sections for ease of navigation. It also includes a link to our questionaire. 
+
+In addition, we have added the thematic coding tables, and analytical mappings used to interpert qualitative data. For proper navigation, we have included a table of contents, at the top of this file. Allowing for each main section to be found for quick navigation, to and back. 
+
 
 ---
 
-## Section 1: Participant Background
+## Table of Contents
 
-<a id="q1q"></a>
-### 1. What is your age range?
-[Back to Top](#top)
-
-- Under 18: 1  
-- 18–24: 7  
-- 25–34: 3  
-- 35–44: 1  
-- 45–54: 1  
-- 55 or over: 0  
-
----
-
-<a id="q2q"></a>
-### 2. How often do you shop online for products like clothing, groceries, or household items?
-[Back to Top](#top)
-
-- Daily: 2  
-- Several times a week: 6  
-- Once a week: 1  
-- A few times a month: 3  
-- Rarely: 1  
-- Never: 0  
+- [Section 1: Demographics & Shopping Behaviour](#section1)
+- [Section 2: Usability Task Experience](#section2)
+- [Section 3: System Usability Scale (SUS)](#section3)
+- [Section 4: Gamification and Sustainability Motivation](#section4)
+- [Section 5: Overall Satisfaction and Feedback](#section5)
+- [Thematic Analysis](#thematic)
+  - [Section 2 Difficulties](#ta-sec2)
+  - [Section 4 Strengths](#ta-sec4-strengths)
+  - [Section 4 Weaknesses](#ta-sec4-weaknesses)
 
 ---
 
-<a id="q3q"></a>
-### 3. How important is sustainability to you when making purchasing decisions?
-[Back to Top](#top)
-
-- 1: 0  
-- 2: 3  
-- 3: 5  
-- 4: 2  
-- 5: 3  
+# Survey Results
 
 ---
 
-## Section 2: Usability Task Experience
+### **Section 1: Demographics & Shopping Behaviour** [Back to Top](#top)
 
-<a id="q4q"></a>
-### 4. How easy was it to navigate from the home screen to a product page?
-[Back to Top](#top)
-
-- 1: 0  
-- 2: 1  
-- 3: 3  
-- 4: 4  
-- 5: 5  
+| Question | Responses |
+|---------|----------|
+| What is your age range? | Under 18 (1)<br>18-24 (7)<br>25-34 (3)<br>35-44 (1)<br>45-54 (1)<br>55 or over (0) |
+| How often do you shop online for products like clothing, groceries, or household items? | Daily (2)<br>Several times a week (6)<br>Once a week (1)<br>A few times a month (3)<br>Rarely (1)<br>Never (0) |
+| How important is sustainability to you when making purchasing decisions? | 1 (0)<br>2 (3)<br>3 (5)<br>4 (2)<br>5 (3) |
 
 ---
 
-<a id="q5q"></a>
-### 5. How easy was it to find information about a product's sustainability rating?
-[Back to Top](#top)
+### **Section 2: Usability Task Experience** [Back to Top](#top)
 
-- 1: 0  
-- 2: 3  
-- 3: 3  
-- 4: 4  
-- 5: 3  
-
----
-
-<a id="q6q"></a>
-### 6. How easy was it to add a sustainable product to your shopping cart?
-[Back to Top](#top)
-
-- 1: 0  
-- 2: 1  
-- 3: 3  
-- 4: 3  
-- 5: 6  
+| Question | Responses |
+|---------|----------|
+| How easy was it to navigate from the home screen to a product page? | 1 (0)<br>2 (1)<br>3 (3)<br>4 (4)<br>5 (5) |
+| How easy was it to find information about a product's sustainability rating? | 1 (0)<br>2 (3)<br>3 (3)<br>4 (4)<br>5 (3) |
+| How easy was it to add a sustainable product to your shopping cart? | 1 (0)<br>2 (1)<br>3 (3)<br>4 (3)<br>5 (6) |
+| How easy was it to locate and understand the gamification features? | 1 (1)<br>2 (1)<br>3 (2)<br>4 (3)<br>5 (6) |
+| How confident do you feel that you could complete a purchase without getting lost or confused? | 1 (0)<br>2 (1)<br>3 (2)<br>4 (5)<br>5 (5) |
+| Please describe any difficulties you experienced | Rewards page<br>Everything was clear<br>Very easy<br>None<br>Wanted to click metrics for methodology<br>Did not understand affordability score<br>Score unclear (32/100)<br>N/a<br>N/A<br>Feels like a game not a shopping tool<br>No real difficulties, just reading sustainability<br>Wanted more detail on recycling score<br>Finding more information |
 
 ---
 
-<a id="q7q"></a>
-### 7. How easy was it to locate and understand the gamification features?
-[Back to Top](#top)
+### **Section 3: System Usability Scale (SUS)** [Back to Top](#top)
 
-- 1: 1  
-- 2: 1  
-- 3: 2  
-- 4: 3  
-- 5: 6  
-
----
-
-<a id="q8q"></a>
-### 8. How confident do you feel that you could complete a purchase without getting lost or confused?
-[Back to Top](#top)
-
-- 1: 0  
-- 2: 1  
-- 3: 2  
-- 4: 5  
-- 5: 5  
+| Question | Responses |
+|---------|----------|
+| I think that I would like to use this app frequently | 1 (2)<br>2 (1)<br>3 (2)<br>4 (4)<br>5 (4) |
+| I found the app unnecessarily complex | 1 (3)<br>2 (5)<br>3 (3)<br>4 (1)<br>5 (1) |
+| I thought the app was easy to use | 1 (0)<br>2 (2)<br>3 (1)<br>4 (5)<br>5 (5) |
+| I think I would need technical support to use this app | 1 (7)<br>2 (4)<br>3 (1)<br>4 (0)<br>5 (1) |
+| I found the functions well integrated | 1 (0)<br>2 (2)<br>3 (2)<br>4 (7)<br>5 (2) |
+| I thought there was too much inconsistency | 1 (3)<br>2 (5)<br>3 (3)<br>4 (1)<br>5 (1) |
+| Most people would learn this app quickly | 1 (0)<br>2 (2)<br>3 (0)<br>4 (5)<br>5 (6) |
+| I found the app cumbersome | 1 (3)<br>2 (3)<br>3 (4)<br>4 (2)<br>5 (1) |
+| I felt very confident using the app | 1 (0)<br>2 (2)<br>3 (0)<br>4 (6)<br>5 (5) |
+| I needed to learn a lot before getting started | 1 (6)<br>2 (2)<br>3 (3)<br>4 (1)<br>5 (1) |
 
 ---
 
-<a id="q9q"></a>
-### 9. Please describe any difficulties you experienced while completing the above tasks.
-[Back to Top](#top)
+### **Section 4: Gamification and Sustainability Motivation** [Back to Top](#top)
 
-R1: Rewards page  
-R2: Everything was clear  
-R3: Very easy  
-R4: None  
-R5: Wanted to click into each metric for more detail  
-R6: Affordability score unclear; not interested in gamification  
-R7: Unsure what scores meant (e.g., 32/100)  
-R8: N/A  
-R9: N/A  
-R10: Feels too game-like, not a serious shopping tool  
-R11: Slight difficulty comparing sustainability stats  
-R12: Wanted clickable breakdown of scores  
-R13: Difficulty finding more information  
+| Question | Responses |
+|---------|----------|
+| How easy was it to find and view your sustainability score screen? | 1 (1)<br>2 (1)<br>3 (3)<br>4 (3)<br>5 (5) |
+| How clearly did the sustainability score explain impact? | 1 (2)<br>2 (3)<br>3 (3)<br>4 (2)<br>5 (3) |
+| How motivated were you after seeing your sustainability score? | 1 (1)<br>2 (1)<br>3 (5)<br>4 (3)<br>5 (3) |
+| How easy was it to find and view the leaderboard? | 1 (0)<br>2 (1)<br>3 (2)<br>4 (5)<br>5 (5) |
+| How motivated were you after leaderboard ranking? | 1 (2)<br>2 (0)<br>3 (3)<br>4 (4)<br>5 (4) |
+| How interested are you in adding more friends? | 1 (2)<br>2 (0)<br>3 (3)<br>4 (4)<br>5 (4) |
 
 ---
 
-## Section 3: System Usability Scale (SUS)
+### **Section 5: Overall Satisfaction and Feedback** [Back to Top](#top)
 
-<a id="q10q"></a>
-### 10. I think that I would like to use this app frequently.
-[Back to Top](#top)
-
-- 1: 2  
-- 2: 1  
-- 3: 2  
-- 4: 4  
-- 5: 4  
+| Question | Responses |
+|---------|----------|
+| Overall satisfaction with the UI | 1 (1)<br>2 (0)<br>3 (1)<br>4 (7)<br>5 (4) |
+| What would you change? | Bland colors<br>Friends mode<br>Clickable score breakdowns<br>Replace leaderboard with price comparisons<br>More detailed scoring<br>No changes<br>Simple mode without gamification<br>Nothing really<br>Clickable labels<br>Nothing, it's amazing |
+| Any other comments | Very cool<br>Solid app, needs clickable detail<br>Feels too game-like<br>Would use it, competition is fun<br>N/A<br>Too focused on gaming<br>No<br>Encourages sustainability |
 
 ---
 
-<a id="q11q"></a>
-### 11. I found the app unnecessarily complex.
-[Back to Top](#top)
-
-- 1: 3  
-- 2: 5  
-- 3: 3  
-- 4: 1  
-- 5: 1  
+### **Thematic Analysis** [Back to Top](#top)
 
 ---
 
-<a id="q12q"></a>
-### 12. I thought the app was easy to use.
-[Back to Top](#top)
+#### **Section 2: Difficulties Experienced**
 
-- 1: 0  
-- 2: 2  
-- 3: 1  
-- 4: 5  
-- 5: 5  
+| Data Extract | Code |
+|-------------|------|
+| Rewards page | Navigation issue |
+| Everything was clear | No issues |
+| Very easy | Easy to use |
+| None | No issues |
+| The labels and colour coding are good, but I wanted to click into each metric to see the methodology behind the score. | Need more information |
+| I do not really get what the affordability score means. Also I am not interested in games when I am trying to shop for my family. | Unclear metrics, dislike gamification |
+| I was not sure if a score of 32 out of 100 was good or bad. I need more explanation on the product page to understand what the numbers actually mean. | Unclear metrics |
+| N/a | No issues |
+| N/A | No issues |
+| The whole thing feels like a game instead of a serious shopping tool. I do not want to compete with anyone. I just want to buy things. | Dislike gamification |
+| didnt really run into any difficults maybe reading through the sustainabilty part and comparing the stats | Navigation of information |
+| The colour coding and labels helped me see what each score was about, but I wanted to tap on them to get a bit more detail. Like what does the recycling score actually measure? | Need more information |
+| Finding more information | Need more information |
 
----
-
-<a id="q13q"></a>
-### 13. I think that I would need the support of a technical person to be able to use this app.
-[Back to Top](#top)
-
-- 1: 7  
-- 2: 4  
-- 3: 1  
-- 4: 0  
-- 5: 1  
-
----
-
-<a id="q14q"></a>
-### 14. I found the various functions in this app were well integrated.
-[Back to Top](#top)
-
-- 1: 0  
-- 2: 2  
-- 3: 2  
-- 4: 7  
-- 5: 2  
+| Category | Details |
+|---------|--------|
+| Navigation | General navigation issues<br>Navigation of information |
+| Gamification | Dislike gamification of app |
+| Scoring System | Lack of clarity in scoring<br>Unclear metrics<br>Need more information |
+| No Issues | No issues stated<br>Easy to use<br>N/A |
 
 ---
 
-<a id="q15q"></a>
-### 15. I thought there was too much inconsistency in this app.
-[Back to Top](#top)
+#### **Section 4: Strengths**
 
-- 1: 3  
-- 2: 5  
-- 3: 3  
-- 4: 1  
-- 5: 1  
+| Data Extract | Code |
+|-------------|------|
+| Ranking | Leaderboard, gamification |
+| Color coded scores helps me to easily understand | Visual clarity |
+| Easy to use | Ease of use |
+| encouragement | Motivation |
+| The leaderboard is really well designed. The eco points and up and down arrows make it easy to see where I stand against my friends. | Leaderboard, gamification |
+| I like that the product page shows affordability, even if I do not fully understand the number. | Useful information |
+| I really like the leaderboard. Seeing my name at the top and the arrows next to my friends makes me want to keep shopping to stay ahead. | Gamification, motivation |
+| Can compete with other | Motivation, competition |
+| The fact I can compete with friends | Motivation, competition |
+| keeps me active and motivated | Motivation |
+| The leaderboard is actually fun. I like seeing where my friends are and the arrows show me who I need to catch up to. | Leaderboard information |
+| Leaderboard | Leaderboard |
 
----
-
-<a id="q16q"></a>
-### 16. I would imagine that most people would learn to use this app very quickly.
-[Back to Top](#top)
-
-- 1: 0  
-- 2: 2  
-- 3: 0  
-- 4: 5  
-- 5: 6  
-
----
-
-<a id="q17q"></a>
-### 17. I found the app very cumbersome to use.
-[Back to Top](#top)
-
-- 1: 3  
-- 2: 3  
-- 3: 4  
-- 4: 2  
-- 5: 1  
+| Category | Details |
+|---------|--------|
+| Leaderboard | Competitive<br>Motivating<br>Leaderboard information |
+| Clarity of Design | Visual clarity<br>Ease of use |
+| Motivation | Motivation to be active<br>Encouraging |
 
 ---
 
-<a id="q18q"></a>
-### 18. I felt very confident using the app.
-[Back to Top](#top)
+#### **Section 4: Weaknesses**
 
-- 1: 0  
-- 2: 2  
-- 3: 0  
-- 4: 6  
-- 5: 5  
+| Data Extract | Code |
+|-------------|------|
+| No weakness | No weaknesses |
+| None | No weaknesses |
+| Finding a specific friend and their ranking on the leader board. | Navigation of leaderboard |
+| could be more clear what affects it | Lack of score clarity |
+| The labels on the sustainability scores are helpful, but I am the kind of user who wants to click on things to get deeper information. I would love a detailed view for each metric. | Need more information |
+| The app seems built around competing with friends, but I do not care about that at all. I just want to know if a product is good for the environment and good for my wallet. I also wish I could tap on the affordability score to understand how it is worked out. | Dislike gamification |
+| The labels and colours on the scores are helpful, but I wanted to click on each one to learn more. Like what goes into the carbon footprint number specifically? | Gamification, motivation |
+| N/a | No weaknesses |
+| The app pushes the social competition too hard. I do not want to see a leaderboard or add friends. I want a simple shopping experience. | Dislike gamification |
+| sometimes it could be not accurate due to data signal i believe | Concerns of accuracy |
+| I like that there are labels for each sustainability aspect, but I wish I could click on them to get a simple explanation. Like what makes a product have a good recycling score? | Need more information |
+| None | No weaknesses |
 
----
-
-<a id="q19q"></a>
-### 19. I needed to learn a lot of things before I could get going with this app.
-[Back to Top](#top)
-
-- 1: 6  
-- 2: 2  
-- 3: 3  
-- 4: 1  
-- 5: 1  
-
----
-
-## Section 4: Gamification and Sustainability Motivation
-
-<a id="q20q"></a>
-### 20. How easy was it to find and view your sustainability score screen?
-[Back to Top](#top)
-
-- 1: 1  
-- 2: 1  
-- 3: 3  
-- 4: 3  
-- 5: 5  
+| Category | Details |
+|---------|--------|
+| Lack of Detail | Need more information<br>Lack of score clarity<br>Accuracy concerns |
+| Gamification | Dislike gamification<br>Dislike social competition |
+| Leaderboard | Navigation issues |
+| No weaknesses | No weaknesses stated<br>N/A |
 
 ---
-
-<a id="q21q"></a>
-### 21. How clearly did the sustainability score screen explain your environmental impact?
-[Back to Top](#top)
-
-- 1: 2  
-- 2: 3  
-- 3: 3  
-- 4: 2  
-- 5: 3  
-
----
-
-<a id="q22q"></a>
-### 22. How motivated did you feel to shop more sustainably after seeing your sustainability score?
-[Back to Top](#top)
-
-- 1: 1  
-- 2: 1  
-- 3: 5  
-- 4: 3  
-- 5: 3  
-
----
-
-<a id="q23q"></a>
-### 23. How easy was it to find and view the leaderboard?
-[Back to Top](#top)
-
-- 1: 0  
-- 2: 1  
-- 3: 2  
-- 4: 5  
-- 5: 5  
-
----
-
-<a id="q24q"></a>
-### 24. How motivated did you feel after seeing leaderboard ranking?
-[Back to Top](#top)
-
-- 1: 2  
-- 2: 0  
-- 3: 3  
-- 4: 4  
-- 5: 4  
-
----
-
-<a id="q25q"></a>
-### 25. How interested would you be in adding more friends?
-[Back to Top](#top)
-
-- 1: 2  
-- 2: 0  
-- 3: 3  
-- 4: 4  
-- 5: 4  
-
----
-
-## Section 5: Overall Satisfaction
-
-<a id="q29q"></a>
-### 29. Overall satisfaction with the UI
-[Back to Top](#top)
-
-- 1: 1  
-- 2: 0  
-- 3: 1  
-- 4: 7  
-- 5: 4  
