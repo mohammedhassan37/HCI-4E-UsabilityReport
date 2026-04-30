@@ -118,7 +118,7 @@ In addition, we have added the thematic coding tables, and analytical mappings u
 | No Issues | No issues stated<br>Easy to use<br>N/A |
 
 ---
-<a id="ta-sec4"></a>
+<a id="ta-sec4-strenghts"></a>
 #### **Section 4:  What is the single biggest strength of the sustainability score or leaderboard features?**
 
 | Data Extract | Code |
@@ -143,7 +143,7 @@ In addition, we have added the thematic coding tables, and analytical mappings u
 | Motivation | Motivation to be active<br>Encouraging |
 
 ---
-<a id="ta-sec4"></a>
+<a id="ta-sec4-weakness"></a>
 #### **Section 4:  What is the single biggest weakness or frustration you experienced with the sustainability score or leaderboard features? **
 
 | Data Extract | Code |
