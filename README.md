@@ -92,7 +92,7 @@ In addition, we have added the thematic coding tables, and analytical mappings u
 
 ---
 <a id="ta-sec2"></a>
-#### **Section 2: Difficulties Experienced**
+#### **Section 2:  Please describe any difficulties you experienced while completing the above tasks. Be as specific as possible (e.g., which screen or button was confusing?).**
 
 | Data Extract | Code |
 |-------------|------|
@@ -119,7 +119,7 @@ In addition, we have added the thematic coding tables, and analytical mappings u
 
 ---
 <a id="ta-sec4"></a>
-#### **Section 4: Strengths**
+#### **Section 4:  What is the single biggest strength of the sustainability score or leaderboard features?**
 
 | Data Extract | Code |
 |-------------|------|
@@ -144,7 +144,7 @@ In addition, we have added the thematic coding tables, and analytical mappings u
 
 ---
 <a id="ta-sec4"></a>
-#### **Section 4: Weaknesses**
+#### **Section 4:  What is the single biggest weakness or frustration you experienced with the sustainability score or leaderboard features? **
 
 | Data Extract | Code |
 |-------------|------|
