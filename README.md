@@ -16,8 +16,11 @@ In addition, we have added the thematic coding tables, and analytical mappings u
 - [Section 5: Overall Satisfaction and Feedback](#section5)
 - [Thematic Analysis](#thematic)
   - [Section 2 Difficulties](#ta-sec2)
-  - [Section 4 Strengths](#ta-sec4-1)
-  - [Section 4 Weaknesses](#ta-sec4-2)
+  - [Section 4.1 Strengths](#ta-sec4-1)
+  - [Section 4.2 Weaknesses](#ta-sec4-2)
+  - [Section 4.3 Addtional Features](#ta-sec4-3)
+  - [Section 5.1 Addtional Features](#ta-sec5-1)
+  - [Section 5.2 Addtional Features](#ta-sec5-2)
 
 ---
 
@@ -119,7 +122,7 @@ In addition, we have added the thematic coding tables, and analytical mappings u
 
 ---
 <a id="ta-sec4-1"></a> [Back to Top](#top)
-#### **Section 4:  What is the single biggest strength of the sustainability score or leaderboard features?**
+#### **Section 4.1:  What is the single biggest strength of the sustainability score or leaderboard features?**
 
 | Data Extract | Code |
 |-------------|------|
@@ -144,7 +147,7 @@ In addition, we have added the thematic coding tables, and analytical mappings u
 
 ---
 <a id="ta-sec4-2"></a> [Back to Top](#top)
-#### **Section 4:  What is the single biggest weakness or frustration you experienced with the sustainability score or leaderboard features? **
+#### **Section 4.2:  What is the single biggest weakness or frustration you experienced with the sustainability score or leaderboard features? **
 
 | Data Extract | Code |
 |-------------|------|
@@ -169,3 +172,90 @@ In addition, we have added the thematic coding tables, and analytical mappings u
 | No weaknesses | No weaknesses stated<br>N/A |
 
 ---
+
+<a id="ta-sec4-3"></a> [Back to Top](#top)
+
+### **Section 4.3: What additional feature related to sustainability scores or friendly competition would encourage you to shop more sustainably?**
+
+| Data Extract | Code |
+|-------------|------|
+| Discounts | Rewards / financial incentive |
+| Probably points or something for future discounts etc.. | Rewards system |
+| Multiplayer | Social competition / gamification |
+| I would love to see how my sustainability score trends over time, like a line graph showing my improvement week to week. | Progress tracking / visual feedback |
+| Show me how much money I save over time by buying sustainable products. That would actually motivate me. | Financial transparency / savings tracking |
+| It would be cool to have weekly challenges on the leaderboard, like who can reduce their carbon footprint the most in seven days. | Time-based challenges / competition |
+| No ideas | No feature preference |
+| Let me turn off all the gamification stuff completely and just see product information clearly. | Customisation / disable gamification |
+| im not too sure | Uncertain / no preference |
+| Show me how many eco points I would earn before I buy something. That would push me to pick the better option. | Pre-purchase incentive / reward preview |
+
+---
+
+### **Categories**
+
+| Category | Details |
+|---------|--------|
+| Rewards & Incentives | Discounts<br>Points for rewards<br>Eco points preview<br>Savings tracking |
+| Gamification & Competition | Multiplayer<br>Weekly challenges<br>Leaderboard competition |
+| Progress & Insight Tracking | Sustainability score trend over time<br>Visual progress (line graph) |
+| Control & Customisation | Option to disable gamification |
+| No Preference / Unclear | No ideas<br>Not sure |
+
+---
+<a id="ta-sec5.1"></a> [Back to Top](#top)
+
+### *Section 5.1: If you could change one thing about the app's design to make it easier or more enjoyable to use, what would it be?**
+
+| Data Extract | Code |
+|-------------|------|
+| The colors are bland black and white. It has no theme. | Visual design / aesthetics improvement |
+| Friends mode | Social feature preference |
+| Make each sustainability score a clickable card that opens a detailed explanation of how the score is calculated. | Increased interactivity / explainability |
+| Take the leaderboard off the home screen and put price comparisons there instead. Also make the scores clickable so I can understand them better. | UI restructuring / prioritising utility + explainability |
+| Make each sustainability score clickable so I can see a detailed breakdown of what the number means. | Increased transparency / score breakdown |
+| No changes, its easy to use | No changes needed |
+| Give me a simple mode without leaderboards, points, or friend lists. | Simplified / non-gamified mode |
+| nothing to be fair its good | No changes needed |
+| Make the sustainability score labels clickable so I can learn a bit more about what each one means without leaving the product page. | Increased explainability / micro-interactions |
+| Nothing, it’s amazing | No changes needed |
+
+---
+
+### **Categories**
+
+| Category | Details |
+|---------|--------|
+| Visual Design | Aesthetic improvements (colour/theme issues) |
+| Interactivity & Explainability | Clickable scores, breakdowns, deeper information access |
+| UI Structure & Prioritisation | Leaderboard removal, price comparison prioritisation |
+| Gamification Control | Option to remove social/gamified elements |
+| No Changes | Satisfaction with current design |
+
+---
+
+<a id="ta-sec5-2"></a> [Back to Top](#top)
+
+#### **Section 5.2: Any other comments or suggestions for improving the app?**
+
+| Data Extract | Code |
+|-------------|------|
+| Very cool | Positive feedback |
+| This is a solid app. The gamification works well and the clickable detail would take it to the next level for curious users like me. | Positive feedback, need for more detail |
+| The app looks fine but it feels like it is made for people who like games, not for busy parents. | Dislike gamification, target user mismatch |
+| I would actually use this app. The competition with friends makes sustainability feel fun. | Motivation, gamification positive |
+| N/A | No comments |
+| I like the idea of sustainable shopping but this app is too focused on gaming for my taste. | Dislike gamification |
+| not really no | No suggestions |
+| I actually like this app. It makes me want to be more sustainable and the clickable details would help me understand why certain products are better. | Motivation, need for more information |
+
+| Category | Details |
+|---------|--------|
+| Positive Feedback | General approval of app |
+| Gamification | Mixed response (fun vs too focused on gaming) |
+| Information Detail | Need for clickable explanations |
+| No Feedback | No suggestions stated |
+
+
+
+
