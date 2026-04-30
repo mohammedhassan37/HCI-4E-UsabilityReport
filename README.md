@@ -24,7 +24,7 @@ In addition, we have added the thematic coding tables, and analytical mappings u
 # Survey Results
 
 ---
-
+<a id="section1"></a>
 ### **Section 1: Demographics & Shopping Behaviour** [Back to Top](#top)
 
 | Question | Responses |
@@ -34,7 +34,7 @@ In addition, we have added the thematic coding tables, and analytical mappings u
 | How important is sustainability to you when making purchasing decisions? | 1 (0)<br>2 (3)<br>3 (5)<br>4 (2)<br>5 (3) |
 
 ---
-
+<a id="section2"></a>
 ### **Section 2: Usability Task Experience** [Back to Top](#top)
 
 | Question | Responses |
@@ -47,7 +47,7 @@ In addition, we have added the thematic coding tables, and analytical mappings u
 | Please describe any difficulties you experienced | Rewards page<br>Everything was clear<br>Very easy<br>None<br>Wanted to click metrics for methodology<br>Did not understand affordability score<br>Score unclear (32/100)<br>N/a<br>N/A<br>Feels like a game not a shopping tool<br>No real difficulties, just reading sustainability<br>Wanted more detail on recycling score<br>Finding more information |
 
 ---
-
+<a id="section3"></a>
 ### **Section 3: System Usability Scale (SUS)** [Back to Top](#top)
 
 | Question | Responses |
@@ -64,7 +64,7 @@ In addition, we have added the thematic coding tables, and analytical mappings u
 | I needed to learn a lot before getting started | 1 (6)<br>2 (2)<br>3 (3)<br>4 (1)<br>5 (1) |
 
 ---
-
+<a id="section4"></a>
 ### **Section 4: Gamification and Sustainability Motivation** [Back to Top](#top)
 
 | Question | Responses |
@@ -77,7 +77,7 @@ In addition, we have added the thematic coding tables, and analytical mappings u
 | How interested are you in adding more friends? | 1 (2)<br>2 (0)<br>3 (3)<br>4 (4)<br>5 (4) |
 
 ---
-
+<a id="section5"></a>
 ### **Section 5: Overall Satisfaction and Feedback** [Back to Top](#top)
 
 | Question | Responses |
@@ -87,11 +87,11 @@ In addition, we have added the thematic coding tables, and analytical mappings u
 | Any other comments | Very cool<br>Solid app, needs clickable detail<br>Feels too game-like<br>Would use it, competition is fun<br>N/A<br>Too focused on gaming<br>No<br>Encourages sustainability |
 
 ---
-
+<a id="thematic"></a>
 ### **Thematic Analysis** [Back to Top](#top)
 
 ---
-
+<a id="ta-sec2"></a>
 #### **Section 2: Difficulties Experienced**
 
 | Data Extract | Code |
@@ -118,7 +118,7 @@ In addition, we have added the thematic coding tables, and analytical mappings u
 | No Issues | No issues stated<br>Easy to use<br>N/A |
 
 ---
-
+<a id="ta-sec4"></a>
 #### **Section 4: Strengths**
 
 | Data Extract | Code |
@@ -143,7 +143,7 @@ In addition, we have added the thematic coding tables, and analytical mappings u
 | Motivation | Motivation to be active<br>Encouraging |
 
 ---
-
+<a id="ta-sec4"></a>
 #### **Section 4: Weaknesses**
 
 | Data Extract | Code |
