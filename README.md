@@ -1,8 +1,6 @@
 <a id="top"></a>
 
-# Questionnaire
-
-The link to our questionnaire is [Here (Just Click This)](https://docs.google.com/forms/d/1kFbqzkmzLz3TK2f4i5n2oO980okAMEqbIWXD_-HNmJA/edit?ts=69945940&pli=1)
+# Questionnaire – Responses
 
 ---
 
@@ -12,17 +10,37 @@ The link to our questionnaire is [Here (Just Click This)](https://docs.google.co
 ### 1. What is your age range?
 [Back to Top](#top)
 
+- Under 18: 1  
+- 18–24: 7  
+- 25–34: 3  
+- 35–44: 1  
+- 45–54: 1  
+- 55 or over: 0  
+
 ---
 
 <a id="q2q"></a>
 ### 2. How often do you shop online for products like clothing, groceries, or household items?
 [Back to Top](#top)
 
+- Daily: 2  
+- Several times a week: 6  
+- Once a week: 1  
+- A few times a month: 3  
+- Rarely: 1  
+- Never: 0  
+
 ---
 
 <a id="q3q"></a>
 ### 3. How important is sustainability to you when making purchasing decisions?
 [Back to Top](#top)
+
+- 1: 0  
+- 2: 3  
+- 3: 5  
+- 4: 2  
+- 5: 3  
 
 ---
 
@@ -32,11 +50,23 @@ The link to our questionnaire is [Here (Just Click This)](https://docs.google.co
 ### 4. How easy was it to navigate from the home screen to a product page?
 [Back to Top](#top)
 
+- 1: 0  
+- 2: 1  
+- 3: 3  
+- 4: 4  
+- 5: 5  
+
 ---
 
 <a id="q5q"></a>
-### 5. How easy was it to find information about a product's sustainability rating (e.g., carbon footprint, eco-certification)?
+### 5. How easy was it to find information about a product's sustainability rating?
 [Back to Top](#top)
+
+- 1: 0  
+- 2: 3  
+- 3: 3  
+- 4: 4  
+- 5: 3  
 
 ---
 
@@ -44,11 +74,23 @@ The link to our questionnaire is [Here (Just Click This)](https://docs.google.co
 ### 6. How easy was it to add a sustainable product to your shopping cart?
 [Back to Top](#top)
 
+- 1: 0  
+- 2: 1  
+- 3: 3  
+- 4: 3  
+- 5: 6  
+
 ---
 
 <a id="q7q"></a>
-### 7. How easy was it to locate and understand the gamification features (e.g., leaderboard)?
+### 7. How easy was it to locate and understand the gamification features?
 [Back to Top](#top)
+
+- 1: 1  
+- 2: 1  
+- 3: 2  
+- 4: 3  
+- 5: 6  
 
 ---
 
@@ -56,11 +98,31 @@ The link to our questionnaire is [Here (Just Click This)](https://docs.google.co
 ### 8. How confident do you feel that you could complete a purchase without getting lost or confused?
 [Back to Top](#top)
 
+- 1: 0  
+- 2: 1  
+- 3: 2  
+- 4: 5  
+- 5: 5  
+
 ---
 
 <a id="q9q"></a>
 ### 9. Please describe any difficulties you experienced while completing the above tasks.
 [Back to Top](#top)
+
+R1: Rewards page  
+R2: Everything was clear  
+R3: Very easy  
+R4: None  
+R5: Wanted to click into each metric for more detail  
+R6: Affordability score unclear; not interested in gamification  
+R7: Unsure what scores meant (e.g., 32/100)  
+R8: N/A  
+R9: N/A  
+R10: Feels too game-like, not a serious shopping tool  
+R11: Slight difficulty comparing sustainability stats  
+R12: Wanted clickable breakdown of scores  
+R13: Difficulty finding more information  
 
 ---
 
@@ -70,11 +132,23 @@ The link to our questionnaire is [Here (Just Click This)](https://docs.google.co
 ### 10. I think that I would like to use this app frequently.
 [Back to Top](#top)
 
+- 1: 2  
+- 2: 1  
+- 3: 2  
+- 4: 4  
+- 5: 4  
+
 ---
 
 <a id="q11q"></a>
 ### 11. I found the app unnecessarily complex.
 [Back to Top](#top)
+
+- 1: 3  
+- 2: 5  
+- 3: 3  
+- 4: 1  
+- 5: 1  
 
 ---
 
@@ -82,11 +156,23 @@ The link to our questionnaire is [Here (Just Click This)](https://docs.google.co
 ### 12. I thought the app was easy to use.
 [Back to Top](#top)
 
+- 1: 0  
+- 2: 2  
+- 3: 1  
+- 4: 5  
+- 5: 5  
+
 ---
 
 <a id="q13q"></a>
 ### 13. I think that I would need the support of a technical person to be able to use this app.
 [Back to Top](#top)
+
+- 1: 7  
+- 2: 4  
+- 3: 1  
+- 4: 0  
+- 5: 1  
 
 ---
 
@@ -94,11 +180,23 @@ The link to our questionnaire is [Here (Just Click This)](https://docs.google.co
 ### 14. I found the various functions in this app were well integrated.
 [Back to Top](#top)
 
+- 1: 0  
+- 2: 2  
+- 3: 2  
+- 4: 7  
+- 5: 2  
+
 ---
 
 <a id="q15q"></a>
 ### 15. I thought there was too much inconsistency in this app.
 [Back to Top](#top)
+
+- 1: 3  
+- 2: 5  
+- 3: 3  
+- 4: 1  
+- 5: 1  
 
 ---
 
@@ -106,11 +204,23 @@ The link to our questionnaire is [Here (Just Click This)](https://docs.google.co
 ### 16. I would imagine that most people would learn to use this app very quickly.
 [Back to Top](#top)
 
+- 1: 0  
+- 2: 2  
+- 3: 0  
+- 4: 5  
+- 5: 6  
+
 ---
 
 <a id="q17q"></a>
 ### 17. I found the app very cumbersome to use.
 [Back to Top](#top)
+
+- 1: 3  
+- 2: 3  
+- 3: 4  
+- 4: 2  
+- 5: 1  
 
 ---
 
@@ -118,11 +228,23 @@ The link to our questionnaire is [Here (Just Click This)](https://docs.google.co
 ### 18. I felt very confident using the app.
 [Back to Top](#top)
 
+- 1: 0  
+- 2: 2  
+- 3: 0  
+- 4: 6  
+- 5: 5  
+
 ---
 
 <a id="q19q"></a>
 ### 19. I needed to learn a lot of things before I could get going with this app.
 [Back to Top](#top)
+
+- 1: 6  
+- 2: 2  
+- 3: 3  
+- 4: 1  
+- 5: 1  
 
 ---
 
@@ -132,11 +254,23 @@ The link to our questionnaire is [Here (Just Click This)](https://docs.google.co
 ### 20. How easy was it to find and view your sustainability score screen?
 [Back to Top](#top)
 
+- 1: 1  
+- 2: 1  
+- 3: 3  
+- 4: 3  
+- 5: 5  
+
 ---
 
 <a id="q21q"></a>
-### 21. How clearly did the sustainability score screen explain your environmental impact (e.g., CO2 saved, water saved)?
+### 21. How clearly did the sustainability score screen explain your environmental impact?
 [Back to Top](#top)
+
+- 1: 2  
+- 2: 3  
+- 3: 3  
+- 4: 2  
+- 5: 3  
 
 ---
 
@@ -144,58 +278,58 @@ The link to our questionnaire is [Here (Just Click This)](https://docs.google.co
 ### 22. How motivated did you feel to shop more sustainably after seeing your sustainability score?
 [Back to Top](#top)
 
+- 1: 1  
+- 2: 1  
+- 3: 5  
+- 4: 3  
+- 5: 3  
+
 ---
 
 <a id="q23q"></a>
-### 23. How easy was it to find and view the leaderboard comparing you to people you know or have added?
+### 23. How easy was it to find and view the leaderboard?
 [Back to Top](#top)
+
+- 1: 0  
+- 2: 1  
+- 3: 2  
+- 4: 5  
+- 5: 5  
 
 ---
 
 <a id="q24q"></a>
-### 24. How motivated did you feel to shop more sustainably after seeing where you ranked on the leaderboard compared to friends?
+### 24. How motivated did you feel after seeing leaderboard ranking?
 [Back to Top](#top)
+
+- 1: 2  
+- 2: 0  
+- 3: 3  
+- 4: 4  
+- 5: 4  
 
 ---
 
 <a id="q25q"></a>
-### 25. How interested would you be in adding more friends within the app to compete on the leaderboard?
+### 25. How interested would you be in adding more friends?
 [Back to Top](#top)
+
+- 1: 2  
+- 2: 0  
+- 3: 3  
+- 4: 4  
+- 5: 4  
 
 ---
 
-<a id="q26q"></a>
-### 26. What is the single biggest strength of the sustainability score or leaderboard features?
-[Back to Top](#top)
-
----
-
-<a id="q27q"></a>
-### 27. What is the single biggest weakness or frustration you experienced with the sustainability score or leaderboard features?
-[Back to Top](#top)
-
----
-
-<a id="q28q"></a>
-### 28. What additional feature related to sustainability scores or friendly competition would encourage you to shop more sustainably?
-[Back to Top](#top)
-
----
-
-## Section 5: Overall Satisfaction and Open Feedback
+## Section 5: Overall Satisfaction
 
 <a id="q29q"></a>
-### 29. Overall, how satisfied are you with the user interface of this sustainable shopping app?
+### 29. Overall satisfaction with the UI
 [Back to Top](#top)
 
----
-
-<a id="q30q"></a>
-### 30. If you could change one thing about the app's design to make it easier or more enjoyable to use, what would it be?
-[Back to Top](#top)
-
----
-
-<a id="q31q"></a>
-### 31. Any other comments or suggestions for improving the app?
-[Back to Top](#top)
+- 1: 1  
+- 2: 0  
+- 3: 1  
+- 4: 7  
+- 5: 4  
