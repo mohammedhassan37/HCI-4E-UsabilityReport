@@ -91,7 +91,7 @@ In addition, we have added the thematic coding tables, and analytical mappings u
 ### **Thematic Analysis** [Back to Top](#top)
 
 ---
-<a id="ta-sec2"></a>
+<a id="ta-sec2"></a> [Back to Top](#top)
 #### **Section 2:  Please describe any difficulties you experienced while completing the above tasks. Be as specific as possible (e.g., which screen or button was confusing?).**
 
 | Data Extract | Code |
@@ -118,7 +118,7 @@ In addition, we have added the thematic coding tables, and analytical mappings u
 | No Issues | No issues stated<br>Easy to use<br>N/A |
 
 ---
-<a id="ta-sec4-1"></a>
+<a id="ta-sec4-1"></a> [Back to Top](#top)
 #### **Section 4:  What is the single biggest strength of the sustainability score or leaderboard features?**
 
 | Data Extract | Code |
@@ -143,7 +143,7 @@ In addition, we have added the thematic coding tables, and analytical mappings u
 | Motivation | Motivation to be active<br>Encouraging |
 
 ---
-<a id="ta-sec4-2"></a>
+<a id="ta-sec4-2"></a> [Back to Top](#top)
 #### **Section 4:  What is the single biggest weakness or frustration you experienced with the sustainability score or leaderboard features? **
 
 | Data Extract | Code |
